@@ -1,0 +1,20 @@
+.mainWrapper {
+  background-color: #9563f16e;
+  min-height: 100vb;
+}
+
+.navlist {
+  /* background-color: rgba(110, 206, 20, 0.89); */
+  text-align-last: left;
+  padding-left: 1em;
+  /* padding-top: 1em; */
+  padding-bottom: 1em;
+  line-height: 2em;
+}
+
+.textelem {
+  font-size: 1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: #000000;
+}

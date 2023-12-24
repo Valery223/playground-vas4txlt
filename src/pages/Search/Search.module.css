@@ -1,0 +1,20 @@
+.mainWrapper {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  height: 100vh;
+}
+
+.textWrapper {
+  display: grid;
+  background: rgba(239, 222, 222, 0.58);
+
+  font-size: 23px;
+  grid-template-rows: 100px 1fr 1fr;
+}
+.textTabs {
+  margin-left: 15px;
+}
+
+.photoWrapper {
+  background-color: rgb(255, 255, 255);
+}
